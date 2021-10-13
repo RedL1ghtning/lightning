@@ -1,5 +1,5 @@
 Creating Kubernetes cluster with docker:
-1. Disable swap
+1. Disable swap, commit swap on /etc/fstab
 ```
 swapoff -a
 ```
